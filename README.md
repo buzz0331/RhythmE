@@ -18,6 +18,13 @@ RhythmE는 JavaScript를 이용하여 구현한 리듬게임 입니다.
 
 <br/><br/><br/>
 
+
+*game site*
+
+RhythmE : https://playing-rhythme.netlify.app/
+
+<br/><br/>
+
 *game reference*
 
 Nintendo) Rhythm Heaven(리듬 세상) : [Night walking(나이트 워킹)](https://www.youtube.com/watch?v=24VFmHOFlko&pp=ygUc66as65Os7IS47IOBIOuCmOydtO2KuOybjO2CuQ%3D%3D)
